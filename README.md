@@ -40,6 +40,8 @@ Create text here.
 
 **Github Repo:**  
 
+**Class Title:** 
+
 **Syllabus:** 
 
 **Number of Courses:** 
