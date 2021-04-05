@@ -1,4 +1,4 @@
-# nsf-iuse-community-collection
+# National Science Foundation: Improving Undergraduate STEM Education (NSF-IUSE) Community Collection, UC Berkeley
 NSF IUSE project collection of Data Science resources at UC Berkeley and beyond
 
 -----------
