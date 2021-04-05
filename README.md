@@ -28,7 +28,21 @@ Create text here.
 
 -----------
 ## Data Collection
-Create text here. 
+Instructor: 
+
+Term Length:
+
+Level: ie, undergraduate, graduate
+
+Disciplines: ie, Geography, Sociology
+
+Themes:  ie, Ethics (should these be hyper links to a description)
+
+Github Repo: 
+
+Syllabus:
+
+Number of Courses:
 
 -----------
 
