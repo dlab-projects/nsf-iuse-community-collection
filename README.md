@@ -6,6 +6,8 @@ NSF IUSE project collection of Data Science resources at UC Berkeley and beyond
 
 [Overview](https://github.com/dlab-projects/nsf-iuse-community-collection/#overview)
 
+[Data Collection](https://github.com/dlab-projects/nsf-iuse-community-collection/#overview)
+
 [Universties](https://github.com/dlab-projects/nsf-iuse-community-collection/#universities)
 
 [Barnard](https://github.com/dlab-projects/nsf-iuse-community-collection/#barnard)
@@ -25,19 +27,20 @@ NSF IUSE project collection of Data Science resources at UC Berkeley and beyond
 Create text here. 
 
 -----------
+## Data Collection
+Create text here. 
+
+-----------
 
 ## Universities
 Create text here.
- 
------------
+
 ## Barnard
 Create text here.
 
------------
 ## Mills
 Create text here.
 
------------
 ## University of California, Berkeley (UCB)
 Create text here.
 
