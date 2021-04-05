@@ -64,6 +64,6 @@ Create text here.
 ## University of California, Santa Barbara (UCSB)
 Create text here.
 
-## University of Maryland Baltimore County (UMBC)
+## University of Maryland, Baltimore County (UMBC)
 Create text here.
 
