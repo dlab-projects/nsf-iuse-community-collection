@@ -6,9 +6,9 @@ NSF IUSE project collection of Data Science resources at UC Berkeley and beyond
 
 [Overview](https://github.com/dlab-projects/nsf-iuse-community-collection/#overview)
 
-[Universties]((https://github.com/dlab-projects/nsf-iuse-community-collection/#universities)
+[Universties](https://github.com/dlab-projects/nsf-iuse-community-collection/#universities)
 
-[Mills]((https://github.com/dlab-projects/nsf-iuse-community-collection/#mills)
+[Mills](https://github.com/dlab-projects/nsf-iuse-community-collection/#mills)
 
 
 -----------
